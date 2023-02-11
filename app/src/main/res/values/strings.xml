@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LAB_Aswini Sasi Kanth_C0880827_android</string>
+    <string name="google_maps_key">AIzaSyD9Phtu1pW7hYzd2yW_X3Jgx60zhKFXhD4</string>
+    <string-array name="type">
+        <item>Normal Map</item>
+        <item>Hybrid Map</item>
+        <item>Terrain Map</item>
+        <item>Sattelite Map</item>
+    </string-array>
+</resources>
